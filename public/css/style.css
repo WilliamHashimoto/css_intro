@@ -1,0 +1,10 @@
+body {
+    background-color: aquamarine;
+}
+
+.cool {
+    width: 400px;
+    height: 100px;
+    background-color: violet;
+    margin: 10px;
+}
